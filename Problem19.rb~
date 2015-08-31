@@ -1,0 +1,2 @@
+month = Array.new([31,30])
+puts month 
